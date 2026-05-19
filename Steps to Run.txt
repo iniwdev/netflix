@@ -1,0 +1,12 @@
+1) import both the projects into the VS studio
+2) delete their node_modules folder from both projects
+
+Steps to execute:
+1) netflix_backend --> node index.js
+
+2) netflix_frontend  --> npm start
+3) On the browser --> Enter the dummy email id in center (eg: testfive@gmail.com)
+4) On next page it will ask for password --> (eg: Password@1)
+5) on next page --> select the Basic or premimum plan --> click "Next"
+6) Razor API notification will come --> click on "Scan Qr code" --> automatically it will redirect to page --> "Payment successfull"  --> Click on "Browse movies button"
+7) Home page will come showing default movies
